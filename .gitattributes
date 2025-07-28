@@ -1,0 +1,2 @@
+ #Treat all Jupyter notebooks as binary (no text diff)~
+ *.ipynb diff=binary merge=binary   
